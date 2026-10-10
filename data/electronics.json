@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Galaxy S24",
+        "brand": "Samsung",
+        "category": "phone",
+        "price": 799,
+        "stock": 8
+    },
+    {
+        "name": "MacBook Air M3",
+        "brand": "Apple",
+        "category": "laptop",
+        "price": 1099,
+        "stock": 5
+    },
+    {
+        "name": "ThinkPad E14",
+        "brand": "Lenovo",
+        "category": "laptop",
+        "price": 749,
+        "stock": 10
+    },
+    {
+        "name": "AirPods Pro",
+        "brand": "Apple",
+        "category": "audio",
+        "price": 249,
+        "stock": 20
+    },
+    {
+        "name": "WH-1000XM5",
+        "brand": "Sony",
+        "category": "audio",
+        "price": 399,
+        "stock": 3
+    },
+    {
+        "name": "iPad Air",
+        "brand": "Apple",
+        "category": "tablet",
+        "price": 599,
+        "stock": 7
+    },
+    {
+        "name": "Galaxy Tab S9",
+        "brand": "Samsung",
+        "category": "tablet",
+        "price": 699,
+        "stock": 5
+    },
+    {
+        "name": "Iphone 16",
+        "brand": "Apple",
+        "category": "Phone",
+        "price": 899.0,
+        "stock": 25
+    },
+    {
+        "name": "ThinkPad T16 Gen 5",
+        "brand": "Lenovo",
+        "category": "laptop",
+        "price": 1704.3,
+        "stock": 15
+    },
+    {
+        "name": "Iphone 15",
+        "brand": "Apple",
+        "category": "Phone",
+        "price": 898.0,
+        "stock": 14
+    },
+    {
+        "name": "Iphone 13",
+        "brand": "Iphone",
+        "category": "Phone",
+        "price": 600.0,
+        "stock": 12
+    },
+    {
+        "name": "Iphone 15 pro",
+        "brand": "Apple",
+        "category": "Phone",
+        "price": 950.0,
+        "stock": 12
+    },
+    {
+        "name": "Galaxy s24 ultra",
+        "brand": "Samsung",
+        "category": "Phone",
+        "price": 700.0,
+        "stock": 10
+    }
+]
